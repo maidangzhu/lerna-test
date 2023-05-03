@@ -1,0 +1,13 @@
+{
+  "name": "downzoo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "cli": "packages/cli/bin/cli.mjs"
+  },
+  "devDependencies": {
+    "lerna": "^6.6.1"
+  }
+}
