@@ -3,5 +3,6 @@
 module.exports = index;
 
 function index() {
-    // TODO
+  return 'index from b';
 }
+
