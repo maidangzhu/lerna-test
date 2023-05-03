@@ -27,5 +27,6 @@
   "dependencies": {
     "@downzoo/a": "^0.0.0",
     "yargs": "^17.7.2"
-  }
+  },
+  "gitHead": "17182d20240dcfaeecce1f411c2aa092d5c5f844"
 }
