@@ -3,6 +3,6 @@
 module.exports = index;
 
 function index() {
-  return 'index from b';
+  return 'index from b hahah';
 }
 
